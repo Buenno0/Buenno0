@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="575" viewBox="0 0 680 575" role="img" aria-label="Terminal animado do perfil de Mateus (buenno0)">
+<style>text{font-family:'SF Mono',ui-monospace,Menlo,Monaco,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;font-size:14px;white-space:pre}.txt{fill:#c9d1d9}.dim{fill:#8b949e}.verde{fill:#3fb950}.azul{fill:#58a6ff}.amarelo{fill:#d29922}.roxo{fill:#bc8cff}.vermelho{fill:#ff7b72}.branco{fill:#f0f6fc}.b{font-weight:700}.cursor{fill:#c9d1d9}.l{opacity:0;animation:show 0s linear forwards}@keyframes show{to{opacity:1}}@keyframes hide{to{opacity:0}}.blink{animation:blink 1s step-end infinite}@keyframes blink{50%{opacity:0}}@keyframes t0{from{transform:translateX(0)}to{transform:translateX(67.6px)}}@keyframes t1{from{transform:translateX(0)}to{transform:translateX(84.5px)}}@keyframes t2{from{transform:translateX(0)}to{transform:translateX(261.9px)}}</style>
+<rect x="0.5" y="0.5" width="679" height="574" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 38 V10.5 a10 10 0 0 1 10 -10 H669.5 a10 10 0 0 1 10 10 V38 Z" fill="#161b22"/>
+<line x1="0.5" y1="38" x2="679.5" y2="38" stroke="#30363d"/>
+<circle cx="22" cy="19.0" r="6" fill="#ff5f57"/>
+<circle cx="42" cy="19.0" r="6" fill="#febc2e"/>
+<circle cx="62" cy="19.0" r="6" fill="#28c840"/>
+<text x="340.0" y="23.5" text-anchor="middle" class="dim" style="font-size:12.5px">mateus@buenno0: ~ — zsh</text>
+<g class="l" style="animation-delay:0.60s"><text x="22" y="70"><tspan class="verde b">mateus@buenno0</tspan><tspan class="txt">:</tspan><tspan class="azul b">~</tspan><tspan class="txt">$ </tspan><tspan class="txt">neofetch</tspan></text><g style="animation:t0 0.48s steps(8,end) 1.10s both,hide 0s 1.83s forwards"><rect x="174.1" y="57" width="8.4" height="18" class="cursor"/><rect x="182.5" y="54" width="97.6" height="21" fill="#0d1117"/></g></g>
+<g class="l" style="animation-delay:1.93s"><text x="22" y="91"><tspan class="dim"> .------------------------.</tspan><tspan class="txt">    </tspan><tspan class="verde">mateus@buenno0</tspan></text></g>
+<g class="l" style="animation-delay:2.00s"><text x="22" y="112"><tspan class="dim"> | </tspan><tspan class="verde">$ ssh buenno0@dev     </tspan><tspan class="dim"> |</tspan><tspan class="txt">    </tspan><tspan class="dim">--------------</tspan></text></g>
+<g class="l" style="animation-delay:2.07s"><text x="22" y="133"><tspan class="dim"> | </tspan><tspan class="verde">01001101 01000010     </tspan><tspan class="dim"> |</tspan><tspan class="txt">    </tspan><tspan class="azul">nome       </tspan><tspan class="txt">Mateus Bueno Silva</tspan></text></g>
+<g class="l" style="animation-delay:2.14s"><text x="22" y="154"><tspan class="dim"> | </tspan><tspan class="verde">[##########....] 72%  </tspan><tspan class="dim"> |</tspan><tspan class="txt">    </tspan><tspan class="azul">estudando  </tspan><tspan class="txt">Java, Angular e Kafka</tspan></text></g>
+<g class="l" style="animation-delay:2.21s"><text x="22" y="175"><tspan class="dim"> | </tspan><tspan class="verde">&gt; acesso liberado_    </tspan><tspan class="dim"> |</tspan><tspan class="txt">    </tspan></text></g>
+<g class="l" style="animation-delay:2.28s"><text x="22" y="196"><tspan class="dim"> '------------------------'</tspan><tspan class="txt">    </tspan></text></g>
+<g class="l" style="animation-delay:2.35s"><text x="22" y="217"><tspan class="dim">          _|______|_</tspan><tspan class="txt">           </tspan></text></g>
+<g class="l" style="animation-delay:2.42s"><text x="22" y="238"><tspan class="dim">  .----------------------.</tspan><tspan class="txt">     </tspan></text></g>
+<g class="l" style="animation-delay:2.49s"><text x="22" y="259"><tspan class="dim">  |</tspan><tspan class="dim">[][][][][][][][][][][]</tspan><tspan class="dim">|</tspan><tspan class="txt">     </tspan></text></g>
+<g class="l" style="animation-delay:2.56s"><text x="22" y="280"><tspan class="dim">  '----------------------'</tspan><tspan class="txt">     </tspan></text></g>
+<g class="l" style="animation-delay:3.13s"><text x="22" y="322"><tspan class="verde b">mateus@buenno0</tspan><tspan class="txt">:</tspan><tspan class="azul b">~</tspan><tspan class="txt">$ </tspan><tspan class="txt">ls ~/stack</tspan></text><g style="animation:t1 0.60s steps(10,end) 3.63s both,hide 0s 4.48s forwards"><rect x="174.1" y="309" width="8.4" height="18" class="cursor"/><rect x="182.5" y="306" width="114.5" height="21" fill="#0d1117"/></g></g>
+<g class="l" style="animation-delay:4.58s"><text x="22" y="343"><tspan class="azul">linguagens/  </tspan><tspan class="txt">PHP  TypeScript  Java  SQL</tspan></text></g>
+<g class="l" style="animation-delay:4.65s"><text x="22" y="364"><tspan class="azul">web/         </tspan><tspan class="txt">Laravel  React  Next.js  Angular</tspan></text></g>
+<g class="l" style="animation-delay:4.72s"><text x="22" y="385"><tspan class="azul">dados/       </tspan><tspan class="txt">MySQL  PostgreSQL  PostGIS</tspan></text></g>
+<g class="l" style="animation-delay:4.79s"><text x="22" y="406"><tspan class="azul">infra/       </tspan><tspan class="txt">AWS  Docker  Kubernetes  Terraform</tspan></text></g>
+<g class="l" style="animation-delay:5.36s"><text x="22" y="448"><tspan class="verde b">mateus@buenno0</tspan><tspan class="txt">:</tspan><tspan class="azul b">~</tspan><tspan class="txt">$ </tspan><tspan class="txt">cat projetos/viunacidade/README</tspan></text><g style="animation:t2 1.86s steps(31,end) 5.86s both,hide 0s 7.97s forwards"><rect x="174.1" y="435" width="8.4" height="18" class="cursor"/><rect x="182.5" y="432" width="291.9" height="21" fill="#0d1117"/></g></g>
+<g class="l" style="animation-delay:8.07s"><text x="22" y="469"><tspan class="azul">viunacidade.com.br</tspan></text></g>
+<g class="l" style="animation-delay:8.14s"><text x="22" y="490"><tspan class="txt">mapa colaborativo da cidade com fotos geolocalizadas</tspan></text></g>
+<g class="l" style="animation-delay:8.21s"><text x="22" y="511"><tspan class="txt">que expiram em até 12h</tspan></text></g>
+<g class="l" style="animation-delay:8.78s"><text x="22" y="553"><tspan class="verde b">mateus@buenno0</tspan><tspan class="txt">:</tspan><tspan class="azul b">~</tspan><tspan class="txt">$ </tspan></text><rect x="174.1" y="540" width="8.4" height="18" class="cursor blink"/></g>
+</svg>
